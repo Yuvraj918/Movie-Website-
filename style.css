@@ -173,3 +173,12 @@ h5{
         animation: none;
     }
 }
+@media (orientation:portrait) {
+  .col3{
+    width: 100%;
+    display: block;
+    float: inline-end;
+    margin: 2%;
+    background: fixed;
+  }
+}
